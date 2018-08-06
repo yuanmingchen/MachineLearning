@@ -104,7 +104,7 @@ Word2vec单词转向量是学习单词向量的框架。
 
 那么整体的可能性（概率）为：
 
-$$L(\theta)=\prod_{t=1}^{T}\prod_{-m\leq j\leq m,j\neq0}𝑃(w_{t+j}|w_t;\theta)$$
+$$L(\theta)=\prod_{t=1}^{T}\prod_{-m\leq j\leq m,j\neq0}P(w_{t+j}|w_t;\theta)$$
 
 其中$$\theta$$代表整个模型中的所有参数，具体有哪些参数稍后详细介绍。
 
