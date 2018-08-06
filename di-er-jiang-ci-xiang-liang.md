@@ -108,7 +108,7 @@ $$L(\theta)=\prod_{t=1}^{T}\prod_{-m\leq j\leq m,j\neq0}P(w_{t+j}|w_t;\theta)$$
 
 其中$$\theta$$代表整个模型中的所有参数，具体有哪些参数稍后详细介绍。
 
-$$J(\theta)=-\frac{1}{T}\log L(\theta)=-\frac{1}{T}\prod_{t=1}^{T}\prod_{-m\leq j\leq m,j\neq0}\log P(𝑤_{t+j}|w_t;\theta)$$
+$$J(\theta)=-\frac{1}{T}\log L(\theta)=-\frac{1}{T}\prod_{t=1}^{T}\prod_{-m\leq j\leq m,j\neq0}\log P(w_{t+j}|w_t;\theta)$$
 
 最小化目标函数$$J(\theta)$$⟺最大化预测准确性$$L(\theta)$$
 
