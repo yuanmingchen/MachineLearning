@@ -92,8 +92,7 @@ w出现在一个文本中时, 它的上下文是这个词出现位
 现在相似上下文中的单词的词向量，即要求总是出现在相似上下文的单词的向量也具有较强的相似性（夹角较小，点积较大认为相似性大）。
 
 注意：单词向量有时被称为单词嵌入  
-（word  
-embeddings）或单词表示（word representations）。
+（word embeddings）或单词表示（word representations）。
 
 ##### （3）Word2vec单词转向量概述
 
