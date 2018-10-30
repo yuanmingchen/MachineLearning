@@ -1,7 +1,6 @@
-
 | tag | Description | Example | Tag | Description | Example |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| a | adjective | 美丽 | ni | organization name | 保险公司 |
+| :-: | :--- | :--- | :---: | :--- | :--- |
+| a | 形容词 | 美丽 | ni | organization name | 保险公司 |
 | b | other noun-modifier | 大型, 西式 | nl | location noun | 城郊 |
 | c | conjunction | 和, 虽然 | ns | geographical name | 北京 |
 | d | adverb | 很 | nt | temporal noun | 近日, 明代 |
